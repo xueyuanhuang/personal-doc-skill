@@ -95,4 +95,4 @@ personal-doc/
 
 结果发现：AI 从你的内容里提炼出来的你，比你自以为的你更准确。因为它看的不是你想展示什么，而是你实际写了什么。
 
-详细过程写成了一篇文章：[八百条帖子里的我](https://mp.weixin.qq.com/s/xxx)（链接待更新）
+详细过程写成了一篇文章：[八百条帖子里的我](https://mp.weixin.qq.com/s/jqZuKGp4kMbKe9ADqR0Irw)
